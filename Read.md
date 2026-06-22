@@ -1,15 +1,9 @@
-# My Notes
+# Title 
+Linux Learning
 
-## Tasks
-- Learn Markdown
-- Practice daily
+## Topics:
+1. commands
+2. permissions
+3. users
 
-## Important
-**Markdown is easy***
-
-## Link
-[Open Google](https://google.com)
-
-## Code
-`print("Hello World")`
-``
+**Imporant**: Practice daily 
