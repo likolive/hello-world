@@ -12,9 +12,12 @@ chgrp will change the group of the file
 
 ### Contents of the files
 `cat file_name` - this will display contents of the file.
+
 `more file_name` - Browser through text file. 
-`head fileName` - will display first 10 lines of file only.
+
+`head fileName` - will display first 10 lines of file only. n\
 `tail fileName` - will display last 10 line of file only.
+
 
 `tail -f fileName` - this will follow the file and show you all the changes file is going through live
 
